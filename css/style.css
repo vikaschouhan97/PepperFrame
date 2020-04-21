@@ -88,6 +88,10 @@ h1{
 }
 
 .more-btn{
-  color: #333333;
+  color: #fff;
   margin: 5% 3%;
+}
+
+.more-btn:hover {
+  color: #000;
 }
